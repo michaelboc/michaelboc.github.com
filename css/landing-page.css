@@ -13,28 +13,47 @@ html {
 body,
 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 200;
+    font-weight: 100;
 }
 h1,
 h2,
 {
+    font-size: 24px;
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-h3,
-h4,
+h3{
+    font-size: 24px;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+h4{
+    font-size: 22px;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
 h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 200;
+    font-weight: 240;
 }
 
 .topnav {
     font-size: 14px;
 }
 
-.lead {
+.wide{
     font-size: 18px;
+    line-height: 200%;
+}
+
+.small {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.lead {
+    font-size: 20px;
     font-weight: 400;
 }
 
