@@ -23,7 +23,7 @@ h2,
     font-weight: 700;
 }
 h3{
-    font-size: 24px;
+    font-size: 18px;
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
 }
@@ -36,6 +36,12 @@ h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 240;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
 }
 
 .topnav {
